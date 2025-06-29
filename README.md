@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there, i'm Virupakshayya<br>i'm an EC student<br>
+# Hi there:
+Im Virupakshayya<br>i'm an EC student<br>
 
 
 ## 🌐 Socials:
