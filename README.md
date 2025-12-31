@@ -46,26 +46,16 @@
 - Clocking, Reset Strategies & Race Conditions
 - Design vs Verification mindset
 
+---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Virupakshayya_Hiremath-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/VirupakshayyaHiremath](https://www.linkedin.com/in/virupakshayya/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Virupakshayya_Hiremath-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/virupakshayya/)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Virupakshayyahiremath&theme=dark&hide_border=false)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Virupakshayyahiremath&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Virupakshayyahiremath&layout=compact&theme=dark)
+📧 **Email:** virupakshayyahiremath267@gmail.com
 
 ---
 
 ### ✍️ Quote I Believe In
 
-> *"First make it work, then make it fast, then make it low power."*  
-> — VLSI Design Philosophy
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Virupakshayyahiremath&icon=0&color=0)
+> *"First make it work, then make it fast, then make it low power."*
