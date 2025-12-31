@@ -46,20 +46,10 @@
 - Clocking, Reset Strategies & Race Conditions
 - Design vs Verification mindset
 
----
-
-## 🚀 Projects & Practice
-
-- RTL blocks: **AND/OR Gates, Adders, Counters, FSMs**
-- Flip-Flops: **D, JK, T (with Testbenches)**
-- Ongoing: **FIFO, Pattern Detector, DV Basics**
-- FPGA-based implementation using **Spartan Boards**
-
----
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Virupakshayya_Hiremath-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/VirupakshayyaHiremath)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Virupakshayya_Hiremath-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/VirupakshayyaHiremath](https://www.linkedin.com/in/virupakshayya/))
 
 ---
 
