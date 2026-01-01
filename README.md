@@ -2,7 +2,7 @@
 
 🎓 Electronics & Communication Engineering Student  
 💡 Aspiring **VLSI Engineer | RTL Design & Design Verification**  
-🔧 Focused on **Verilog, SystemVerilog, FPGA, and SoC fundamentals**
+🔧 Focused on **Verilog, SystemVerilog, UVM, FPGA, and SoC fundamentals**
 
 ---
 
