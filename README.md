@@ -11,7 +11,7 @@
 - Strong interest in **RTL Design and Functional Verification**
 - Hands-on with **Verilog/SystemVerilog coding & simulation**
 - Exploring **Digital Design, FSMs, Counters, FIFOs, and Clocking**
-- Actively working on a **#45Days RTL Coding Challenge**
+- Actively working on a **AXI VIP**
 - Goal: **RTL / DV Engineer in Semiconductor Industry**
 
 ---
